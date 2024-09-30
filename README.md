@@ -4,7 +4,7 @@ Este repositório contém os projetos desenvolvidos durante a disciplina de **Mi
 
 ## Descrição do Projeto
 
-Neste projeto, utilizamos o microcontrolador STM32F1 (família STM32F103) para implementar diversas funcionalidades utilizando programação de baixo nível (bare-metal), ou seja, sem a utilização de bibliotecas HAL ou outras camadas de abstração fornecidas pela STMicroelectronics.
+Nesta disciplina, foi utilizado o microcontrolador STM32F1 (família STM32F103) para implementar diversas funcionalidades utilizando programação de baixo nível (bare-metal), ou seja, sem a utilização de bibliotecas HAL ou outras camadas de abstração fornecidas pela STMicroelectronics.
 
 ### Ferramentas Utilizadas:
 - **IDE:** STM32CubeIDE
